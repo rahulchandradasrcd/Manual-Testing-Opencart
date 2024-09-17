@@ -50,7 +50,34 @@ Rigorous test cases verifying the entire OpenCart website, including login, sign
   * ![Bug5](https://github.com/user-attachments/assets/23b25f6e-2691-4811-b667-419b85b66520)
 
   1. ![b9](https://github.com/user-attachments/assets/4a72dc1f-5c6a-44cc-8c14-a997fa33ab14)
-  2. ![b10l](https://github.com/user-attachments/assets/926b1fa9-ba00-4433-94be-f811d3942857)
+
+  * ![Bug6](https://github.com/user-attachments/assets/aa2db0ef-3e85-4dad-9b42-5e0d3b5702d8)
+
+  1. ![b10l](https://github.com/user-attachments/assets/926b1fa9-ba00-4433-94be-f811d3942857)
+
+  * ![Bug7](https://github.com/user-attachments/assets/7f50ecd6-4c36-48fc-806a-be39dcdc3562)
+
+  1. ![b1](https://github.com/user-attachments/assets/8bb2480a-ee2a-4860-bb26-4109a6069477)
+  2. ![b2](https://github.com/user-attachments/assets/e2d76e65-ba5a-4cf6-93da-f857d7515dc7)
+
+  * ![Bug8](https://github.com/user-attachments/assets/9319deba-e3e3-4dea-b9bf-9169a9e83689)
+
+  1. ![b3](https://github.com/user-attachments/assets/8e2116ca-7f8c-4766-8b95-7f7b31ad9d81)
+  2. ![b4](https://github.com/user-attachments/assets/33c3a685-1a3b-4530-9ecf-ec076262cae4)
+
+  * ![Bug9](https://github.com/user-attachments/assets/94f05173-eb73-4371-99a8-124499bae7b0)
+
+  1. ![b1](https://github.com/user-attachments/assets/3ea6c0d3-0ba6-4cce-90e6-cdbc656abdc6)
+  2. ![b2](https://github.com/user-attachments/assets/20dc4293-326d-446d-95ac-03e76b1a8be9)
+
+  * ![Bug10](https://github.com/user-attachments/assets/59894c17-667f-410f-9274-843fd531cfcb)
+
+  1. ![b3](https://github.com/user-attachments/assets/22be07ab-1b52-4573-974e-bcb34838edfc)
+
+  * ![Bug11](https://github.com/user-attachments/assets/ebdf244e-00da-4c63-95d9-0d1dfad719f8)
+
+  1. ![b8](https://github.com/user-attachments/assets/4e4a9fbc-35c5-47ab-b670-c491a1aa70c1)
+  2. ![b9](https://github.com/user-attachments/assets/d1bfff54-3b68-4a6a-9296-3b54a281faec)
 
 ## Final Report
   ##### Sign Up and Sign in
